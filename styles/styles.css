@@ -1,0 +1,34 @@
+body{
+    background: #fdfdfd;
+    font-family: "Arial";
+}
+
+.canStyle{
+    background: rgb(0, 162, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    background-color: #fdfdfd;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-family: "Arial";
+    border-color: #a3a3a2;
+}
+
+.leaderboard-box{
+    background: #fdfdfd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+.leaderboard{
+    border-style: solid;
+}
